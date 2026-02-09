@@ -42,7 +42,7 @@
                <br>
 <h3 align="center">Mantenimiento de Software/Hardware</h3>
 <div align="center">                                       
-<a src="paste link of proyect"_blank"><img src="https://www.freepik.es/vectores/mantenimiento-software" width="400" alt="Servicios de Hardware"></a>
+<a href="paste link of proyect" target="_blank"><img src="https://www.freepik.es/vectores/mantenimiento-software" width="400" alt="Servicios de Hardware"></a>
 <br>
 <p>
 <a href="Paste link of proyect" target="_blank">
