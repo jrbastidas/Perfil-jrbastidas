@@ -24,7 +24,7 @@
 <td width="50%">
 <h3 align="center">Proyect 1 </h3>
 <div align="center">
-<a href="Paste link of proyect" target="_blank"><img src="PICTURE_CANVA" width="400" alt="Proyecto 1"></a>
+<a href="https://jrbastidas.github.io/agapely-shop/" target="_blank"><img src="PICTURE_CANVA" width="400" alt="E-Comerce website"></a>
 <p>
 <a href="Paste link of proyect" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
