@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="Paste link of proyect" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=blac">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Tienda e-commerce desarrollada con enfoque en diseño web moderno y experiencia de usuario.</p>
@@ -42,7 +42,7 @@
                <br>
 <h3 align="center">Mantenimiento de Software/Hardware</h3>
 <div align="center">                                       
-<a href="Paste link of proyect" target="_blank"><img src="PICTURE_CANVA" width="400" alt="Servicios de Hardware"></a>
+<a href="https://www.freepik.es/fotos-vectores-gratis/mantenimiento-software="_blank"><img src="PICTURE_CANVA" width="400" alt="Servicios de Hardware"></a>
 <br>
 <p>
 <a href="Paste link of proyect" target="_blank">
