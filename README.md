@@ -12,13 +12,13 @@
 - 🌱 I’m currently practicing Javascript, pythons,HTML,CSS,C# and more
 - 👯 I’m looking to collaborate in🕹️ Fullstack developer proyects🏹
 - 📲 I am Software developer from Southern Alberta institute of technology. 
-- 💬 Ask me about Technologic.
+- 💬 Ask me about Technology.
 - 📫 How to reach me: kinobigames@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have my collections of 🧢
   <br>
 
-## Working on this proyects😏
+## Working on this projects😏
 <table>
 <tr>
 <td width="50%">
@@ -42,7 +42,7 @@
                <br>
 <h3 align="center">Mantenimiento de Software/Hardware</h3>
 <div align="center">                                       
-<a href="paste link of proyect" target="_blank"><img src="https://www.freepik.es/vectores/mantenimiento-software" width="400" alt="Servicios de Hardware"></a>
+<a href="paste link of proyect" target="_blank"><img src="https://www.shutterstock.com/es/image-vector/system-update-vector-illustrations-character-programmer-2419804563" width="400" alt="Servicios de Hardware"></a>
 <br>
 <p>
 <a href="Paste link of proyect" target="_blank">
@@ -105,4 +105,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jrbastidas&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
