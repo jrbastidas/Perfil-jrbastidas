@@ -24,7 +24,7 @@
 <td width="50%">
 <h3 align="center">E-commerce</h3>
 <div align="center">
-<a href="https://jrbastidas.github.io/agapely-shop/" target="_blank"><img href="https://tint.creativemarket.com/E8y2M8dLkvVMvGoymei56e9mWWW9BAH3prK9Wdl-O2E/width:1160/height:774/gravity:nowe/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzUwMi81MDI3LzUwMjczOTAvMS1vLmpwZw?1536583453" width="400" alt="E-commerce website"></a>
+<a href="https://jrbastidas.github.io/agapely-shop/" target="_blank"><img src="https://freewebillustrations.com/static/images/intro.svg" width="400" alt="E-commerce website"></a>
 <p>
 <a href="Paste link of proyect" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
