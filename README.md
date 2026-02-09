@@ -40,9 +40,9 @@
 
 <td width="50%">
                <br>
-<h3 align="center">TITLE</h3>
+<h3 align="center">Proyecto 2</h3>
 <div align="center">                                       
-<a href="Paste link of proyect" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
+<a href="Paste link of proyect" target="_blank"><img src="PICTURE_CANVA" width="400" alt="Proyecto 2"></a>
 <br>
 <p>
 <a href="Paste link of proyect" target="_blank">
@@ -61,11 +61,11 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">TITLE</h3>
+<h3 align="center">Proyecto 3</h3>
 <div align="center">
-<a href="Paste link of proyect" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
+<a href="Paste link of proyect" target="_blank"><img src="PICTURE_CANVA" width="400" alt="Proyecto 3"></a>
 <p>
-<a href="LINK_REPO">
+<a href="Paste link of proyect" target">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" target="_blank">
 </a>
 <a href="Paste link of proyect" target="_blank">
@@ -78,9 +78,9 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">Proyecto 3</h3>
+<h3 align="center">Proyecto 4</h3>
 <div align="center">
-<a href="Paste link of proyect" target="_blank"><img src="PICTURE_CANVA" width="400" alt="Proyecto 3"></a>
+<a href="Paste link of proyect" target="_blank"><img src="PICTURE_CANVA" width="400" alt="Proyecto 4"></a>
 <p>
 <a href="Paste link of proyect" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
