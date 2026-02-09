@@ -22,27 +22,27 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">E-commerce</h3>
+<h3 align="center">Agapely Shop</h3>
 <div align="center">
 <a href="https://jrbastidas.github.io/agapely-shop/" target="_blank"><img src="https://freewebillustrations.com/static/images/intro.svg" width="400" alt="E-commerce website"></a>
 <p>
-<a href="Paste link of proyect" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="Paste link of proyect" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=blac">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>TITLE</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Tienda e-commerce desarrollada con enfoque en diseño web moderno y experiencia de usuario.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Proyecto 2</h3>
+<h3 align="center">Mantenimiento de Software/Hardware</h3>
 <div align="center">                                       
-<a href="Paste link of proyect" target="_blank"><img src="PICTURE_CANVA" width="400" alt="Proyecto 2"></a>
+<a href="Paste link of proyect" target="_blank"><img src="PICTURE_CANVA" width="400" alt="Servicios de Hardware"></a>
 <br>
 <p>
 <a href="Paste link of proyect" target="_blank">
@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Soluciones técnicas especializadas en optimización de sistemas y ensamblaje de computadores de alto rendimiento.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
