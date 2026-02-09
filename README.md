@@ -5,7 +5,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCx4mo8UQJ64aGtEFNKeVNTA)](https://www.youtube.com/channel/UCx4mo8UQJ64aGtEFNKeVNTA)
 [![GitHubfollowers](https://img.shields.io/github/followers/jrbastidas)](https://github.com/jrbastidas)
-[![Instagram]()]()
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joserbf_99/)
 ## About me
                                  
 - 🔭 I’m currently working in my dreams 🌠 with my motivation 👫
@@ -22,14 +22,14 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">TITLE </h3>
+<h3 align="center">Proyect 1 </h3>
 <div align="center">
-<a href="XXX" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
+<a href="Paste link of proyect" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
 <p>
-<a href="XXXX" target="_blank">
+<a href="Paste link of proyect" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="LINK_REPO" target="_blank">
+<a href="Paste link of proyect" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=blac">
 </a>
 </p>
@@ -42,13 +42,13 @@
                <br>
 <h3 align="center">TITLE</h3>
 <div align="center">                                       
-<a href="LINK_REPO" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
+<a href="Paste link of proyect" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
 <br>
 <p>
-<a href="LINK_REPO" target="_blank">
+<a href="Paste link of proyect" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="LINK_DE_PROYECTO" target="_blank">
+<a href="Paste link of proyect" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -63,12 +63,12 @@
 <td width="50%">
 <h3 align="center">TITLE</h3>
 <div align="center">
-<a href="LINK_REPO" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
+<a href="Paste link of proyect" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
 <p>
 <a href="LINK_REPO">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" target="_blank">
 </a>
-<a href="LINK_REPO" target="_blank">
+<a href="Paste link of proyect" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -78,14 +78,14 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">TITLE</h3>
+<h3 align="center">Proyecto 3</h3>
 <div align="center">
-<a href="LINK_REPO" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
+<a href="Paste link of proyect" target="_blank"><img src="PICTURE_CANVA" width="400" alt="Proyecto 3"></a>
 <p>
-<a href="LINIK_REPO" target="_blank">
+<a href="Paste link of proyect" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="LINK_REPO" target="_blank">
+<a href="Paste link of proyect" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
