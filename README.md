@@ -3,8 +3,8 @@
 </div>
 <img src="https://github.com/jrbastidas/jrbastidas/assets/103537788/a9443d60-d24b-4242-92c7-a53b4b08fa9d">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCx4mo8UQJ64aGtEFNKeVNTA)](https://www.youtube.com/channel/UCx4mo8UQJ64aGtEFNKeVNTA)
-[![GitHubfollowers](https://img.shields.io/github/followers/jrbastidas)](https://github.com/jrbastidas)
+[![YouTube Channel Subscribers](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCx4mo8UQJ64aGtEFNKeVNTA)
+[![GitHubfollowers](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](https://github.com/jrbastidas)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joserbf_99/)
 ## About me
                                  
