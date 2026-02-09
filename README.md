@@ -42,7 +42,7 @@
                <br>
 <h3 align="center">Mantenimiento de Software/Hardware</h3>
 <div align="center">                                       
-<a href="https://www.freepik.es/fotos-vectores-gratis/mantenimiento-software="_blank"><img src="PICTURE_CANVA" width="400" alt="Servicios de Hardware"></a>
+<a src="https://www.freepik.es/fotos-vectores-gratis/mantenimiento-software="_blank"><img src="PICTURE_CANVA" width="400" alt="Servicios de Hardware"></a>
 <br>
 <p>
 <a href="Paste link of proyect" target="_blank">
