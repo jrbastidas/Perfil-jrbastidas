@@ -42,12 +42,17 @@
                <br>
 <h3 align="center">Mantenimiento de Software/Hardware</h3>
 <div align="center">                                       
-<a href="paste link of proyect" target="_blank"><img src="https://www.shutterstock.com/es/image-vector/system-update-vector-illustrations-character-programmer-2419804563" width="400" alt="Servicios de Hardware"></a>
+<a href="paste link of proyect" target="_blank"><img src="http://www.iic.uam.es/wp-content/uploads/2022/01/analisis-software.jpg" width="400" alt="Servicios de Hardware"></a>
 <br>
+comment= 
+Aqui son los link de los proyectos, se identificar por logos de github
 <p>
 <a href="Paste link of proyect" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
+comment= 
+Aqui son los link de los proyectos, se identificar por logos de github
+  
 <a href="Paste link of proyect" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
