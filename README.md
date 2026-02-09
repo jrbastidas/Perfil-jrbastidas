@@ -5,7 +5,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCx4mo8UQJ64aGtEFNKeVNTA)
 [![GitHubfollowers](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](https://github.com/jrbastidas)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joserbf_99/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joserbf_99/)
 ## About me
                                  
 - 🔭 I’m currently working in my dreams 🌠 with my motivation 👫
